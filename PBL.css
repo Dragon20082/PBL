@@ -1,0 +1,65 @@
+body{
+	background-color: White;
+	font-family: "Times New Roman"' Times, serif;
+	font-size: 12pt;
+	color: #ffffff; 
+	text-align: center;
+}
+h1 {
+	display: inline-block;
+	background-color: #white;
+	font-size: 32pt;
+	color: red;
+	padding: 5px 10px;
+	margin:20px auto;
+	text-align: center;
+}
+h2 {
+	display: inline-block;
+	background-color: #white;
+	font-size: 24pt;
+	color: red;
+	padding: 5px 10px;
+	margin:20px auto;
+	text-align: center;
+}
+h3 {
+	display: inline-block;
+	background-color: #white;
+	font-size: 24pt;
+	color: red;
+	padding: 5px 10px;
+	margin:20px auto;
+	text-align: center;
+}
+
+p {
+	display: inline-block;
+	background-color: White;
+	width: 600px;
+	padding: 5px 10px;
+	margin: 10px 0;
+	text-align: left;
+	color: red;
+}
+row{
+	display: flex;
+	gap: 20px;
+}
+li a {
+	font-size: 16pt;
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+li {
+	font-size: 16pt;
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+ol {
+	list-style-type: none;
+	padding-left: 0;
+}
